@@ -1,7 +1,7 @@
 <h1 align="center">Bibliotheca (backend)</h1>
 <p align="justify"> Este é um projeto desenvolvido como hobby e estudo. Tratá-se de uma biblioteca virtual, com o objetivo de ajudar a organizar listas de leitura de livros.</p>
 
-> Status do Projeto: Em desenvolvimento :arrows_clockwise:
+> Status do Projeto: Finalizado :arrows_clockwise:
 
 ## O que o esse aplicativo é capaz de fazer:checkered_flag:
 
